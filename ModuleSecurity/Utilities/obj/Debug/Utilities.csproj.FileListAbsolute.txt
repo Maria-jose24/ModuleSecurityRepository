@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive - SENA\Documentos\ModuleSecurityRepository\ModuleSecurity\Utilities\bin\Debug\Utilities.dll
+C:\Users\Usuario\OneDrive - SENA\Documentos\ModuleSecurityRepository\ModuleSecurity\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Usuario\OneDrive - SENA\Documentos\ModuleSecurityRepository\ModuleSecurity\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - SENA\Documentos\ModuleSecurityRepository\ModuleSecurity\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - SENA\Documentos\ModuleSecurityRepository\ModuleSecurity\Utilities\obj\Debug\Utilities.dll
+C:\Users\Usuario\OneDrive - SENA\Documentos\ModuleSecurityRepository\ModuleSecurity\Utilities\obj\Debug\Utilities.pdb

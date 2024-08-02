@@ -1,26 +1,29 @@
 ﻿using Dapper;
 using Entity.Model.Security;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore.Storage;
 using System.Data;
 using System.Linq;
-using System.Reflection.Emit;
 using System.Reflection;
-using System.Runtime.Remoting.Contexts;
 using System.Text;
-using System.Threading;
 using System.Threading.Tasks;
+using static Entity.Content.ApplicationDBContext;
 
-namespace Entity.Context
+
+
+namespace Entity.Content
 {
-    internal class AplicationDbContext
+    public class ApplicationDBContext : DbContext
     {
         protected readonly IConfiguration configuration;
-        public AplicationDbContext(DbContextOptions<AplicationDbContext> options, IConfiguration configuration) : base(options)
+        public ApplicationDBContext(DbContextOptions<ApplicationDBContext> options, IConfiguration configuration) : base(options)
         {
             configuration = configuration;
         }
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -48,19 +51,29 @@ namespace Entity.Context
         {
             EnsureAudit();
             return base.SaveChangesAsync(acceptAllChangesOnSucces,
-                            cancellationToken);
+                cancellationToken);
         }
 
         public async Task<IEnumerable<T>> QueryAsync<T>(string text, object parameters = null, int? timeout = null, CommandType? type = null)
         {
-            using var command = new DapperEFCoreCommand(this, text, parameters, timeout, type, CancellationToken.None);
+            using var command = new DapperEFCoreCommand(this,
+                text,
+                parameters,
+                timeout,
+                type,
+                CancellationToken.None);
             var connection = Database.GetDbConnection();
             return await connection.QueryAsync<T>(command.Definition);
         }
 
         public async Task<T> QueryFirstOrDefaultAsync<T>(string text, object parameters = null, int? timeout = null, CommandType? type = null)
         {
-            using var command = new DapperEFCoreCommand(this, text, parameters, timeout, type, CancellationToken.None);
+            using var command = new DapperEFCoreCommand(this,
+                text,
+                parameters,
+                timeout,
+                type,
+                CancellationToken.None);
             var connection = Database.GetDbConnection();
             return await connection.QueryFirstOrDefaultAsync<T>(command.Definition);
         }
@@ -71,14 +84,7 @@ namespace Entity.Context
         }
 
         //Security
-        public DbSet<Model.Security.Module> Modules => Set<Model.Security.Module>();
-        public DbSet<Person> Persons => Set<Person>();
         public DbSet<Role> Roles => Set<Role>();
-        public DbSet<RoleView> RoleViews => Set<RoleView>();
-        public DbSet<User> Users => Set<User>();
-        public DbSet<UserRole> UserRoles => Set<UserRole>();
-        public DbSet<View> Views => Set<View>();
-
 
         public readonly struct DapperEFCoreCommand : IDisposable
         {
@@ -94,15 +100,13 @@ namespace Entity.Context
                     transaction,
                     commandTimeout,
                     commandType,
-                    cancellationToken: ct
-                    ); ;
+                    cancellationToken: ct);
             }
 
             public CommandDefinition Definition { get; }
+            public int? Timetout { get; }
 
             public void Dispose() { }
         }
-    }
-}
     }
 }

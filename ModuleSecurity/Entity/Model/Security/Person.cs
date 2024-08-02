@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entity.Model.Security
 {
-    internal class Person
+    public class Person
     {
         public int Id { get; set; }
         public string First_name { get; set; }
@@ -19,7 +19,7 @@ namespace Entity.Model.Security
         public DateTime CreatedAt { get; set; }
         public DateTime UpdatedAt { get; set; }
         public DateTime DeletedAt { get; set; }
-        public String Phone { get; set; }
+        public Int32 Phone { get; set; }
         public Boolean State { get; set; }
     }
 }

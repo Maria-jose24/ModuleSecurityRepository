@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entity.Model.Security
 {
-    internal class RoleView
+    public class RoleView
     {
         public int Id { get; set; }
         public DateTime CreatedAt { get; set; }

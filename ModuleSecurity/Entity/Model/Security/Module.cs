@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entity.Model.Security
 {
-    internal class Module
+    public class Module
     {
         public int Id { get; set; }
 
@@ -16,7 +16,7 @@ namespace Entity.Model.Security
         public DateTime UpdatedAt { get; set; }
         public DateTime DeletedAt { get; set; }
 
-        public Boolean State {  get; set; }
+        public Boolean State { get; set; }
 
 
     }

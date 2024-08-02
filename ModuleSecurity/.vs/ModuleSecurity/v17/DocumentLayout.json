@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{314BF828-3D4D-4E46-BC59-B1B07DF77391}|data\\data.csproj|c:\\users\\usuario\\onedrive - sena\\documentos\\modulesecurity\\data\\interfaces\\iviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314BF828-3D4D-4E46-BC59-B1B07DF77391}|data\\data.csproj|solutionrelative:data\\interfaces\\iviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314BF828-3D4D-4E46-BC59-B1B07DF77391}|data\\data.csproj|c:\\users\\usuario\\onedrive - sena\\documentos\\modulesecurity\\data\\interfaces\\iuserroledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314BF828-3D4D-4E46-BC59-B1B07DF77391}|data\\data.csproj|solutionrelative:data\\interfaces\\iuserroledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314BF828-3D4D-4E46-BC59-B1B07DF77391}|data\\data.csproj|c:\\users\\usuario\\onedrive - sena\\documentos\\modulesecurity\\data\\interfaces\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314BF828-3D4D-4E46-BC59-B1B07DF77391}|data\\data.csproj|solutionrelative:data\\interfaces\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314BF828-3D4D-4E46-BC59-B1B07DF77391}|data\\data.csproj|c:\\users\\usuario\\onedrive - sena\\documentos\\modulesecurity\\data\\interfaces\\iroleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314BF828-3D4D-4E46-BC59-B1B07DF77391}|data\\data.csproj|solutionrelative:data\\interfaces\\iroleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314BF828-3D4D-4E46-BC59-B1B07DF77391}|data\\data.csproj|c:\\users\\usuario\\onedrive - sena\\documentos\\modulesecurity\\data\\interfaces\\iroledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314BF828-3D4D-4E46-BC59-B1B07DF77391}|data\\data.csproj|solutionrelative:data\\interfaces\\iroledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314BF828-3D4D-4E46-BC59-B1B07DF77391}|data\\data.csproj|c:\\users\\usuario\\onedrive - sena\\documentos\\modulesecurity\\data\\interfaces\\ipersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314BF828-3D4D-4E46-BC59-B1B07DF77391}|data\\data.csproj|solutionrelative:data\\interfaces\\ipersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314BF828-3D4D-4E46-BC59-B1B07DF77391}|data\\data.csproj|c:\\users\\usuario\\onedrive - sena\\documentos\\modulesecurity\\data\\interfaces\\imoduledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314BF828-3D4D-4E46-BC59-B1B07DF77391}|data\\data.csproj|solutionrelative:data\\interfaces\\imoduledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90E19D5-E66B-46B5-BD19-961CAD0E689E}|Entity\\Entity.csproj|c:\\users\\usuario\\onedrive - sena\\documentos\\modulesecurity\\entity\\context\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90E19D5-E66B-46B5-BD19-961CAD0E689E}|Entity\\Entity.csproj|solutionrelative:entity\\context\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480BE7A6-B6AE-4CFE-896E-AA79CFDAE121}|Diagram\\Diagram.csproj|c:\\users\\usuario\\onedrive - sena\\documentos\\modulesecurity\\diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{480BE7A6-B6AE-4CFE-896E-AA79CFDAE121}|Diagram\\Diagram.csproj|solutionrelative:diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IViewData.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\data\\Interfaces\\IViewData.cs",
+              "RelativeDocumentMoniker": "data\\Interfaces\\IViewData.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\data\\Interfaces\\IViewData.cs",
+              "RelativeToolTip": "data\\Interfaces\\IViewData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:46:47.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRoleData.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\data\\Interfaces\\IUserRoleData.cs",
+              "RelativeDocumentMoniker": "data\\Interfaces\\IUserRoleData.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\data\\Interfaces\\IUserRoleData.cs",
+              "RelativeToolTip": "data\\Interfaces\\IUserRoleData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:46:25.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserData.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\data\\Interfaces\\IUserData.cs",
+              "RelativeDocumentMoniker": "data\\Interfaces\\IUserData.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\data\\Interfaces\\IUserData.cs",
+              "RelativeToolTip": "data\\Interfaces\\IUserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:46:07.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRoleView.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\data\\Interfaces\\IRoleView.cs",
+              "RelativeDocumentMoniker": "data\\Interfaces\\IRoleView.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\data\\Interfaces\\IRoleView.cs",
+              "RelativeToolTip": "data\\Interfaces\\IRoleView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:45:38.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRoleData.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\data\\Interfaces\\IRoleData.cs",
+              "RelativeDocumentMoniker": "data\\Interfaces\\IRoleData.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\data\\Interfaces\\IRoleData.cs",
+              "RelativeToolTip": "data\\Interfaces\\IRoleData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:45:20.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPersonData.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\data\\Interfaces\\IPersonData.cs",
+              "RelativeDocumentMoniker": "data\\Interfaces\\IPersonData.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\data\\Interfaces\\IPersonData.cs",
+              "RelativeToolTip": "data\\Interfaces\\IPersonData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:44:58.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IModuleData.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\data\\Interfaces\\IModuleData.cs",
+              "RelativeDocumentMoniker": "data\\Interfaces\\IModuleData.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\data\\Interfaces\\IModuleData.cs",
+              "RelativeToolTip": "data\\Interfaces\\IModuleData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:44:26.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\Entity\\Context\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Context\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\Entity\\Context\\AplicationDbContext.cs",
+              "RelativeToolTip": "Entity\\Context\\AplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:40:12.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\Diagram\\DbModel.edmx",
+              "RelativeDocumentMoniker": "Diagram\\DbModel.edmx",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - SENA\\Documentos\\ModuleSecurity\\Diagram\\DbModel.edmx [Diagram1]",
+              "RelativeToolTip": "Diagram\\DbModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-02T04:33:20.02Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
